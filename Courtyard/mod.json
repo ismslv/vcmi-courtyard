@@ -139,5 +139,12 @@
 		"translations" : [
 			"translation/courtyard/polish.json"
 		]
+	},
+	"russian" : {
+		"name" : "Двор",
+		"description" : "Добавляет Двор",
+		"translations" : [
+			"translation/courtyard/russian.json"
+		]
 	}
 }
